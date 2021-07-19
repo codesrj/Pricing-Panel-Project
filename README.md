@@ -1,4 +1,4 @@
-# Pricing-Panel-Project
+# Pricing-Table-Project
 
 This repository contains a responsive web page built for mobile and large screen devices using using HTML and CSS3 which shows differnt pricing plans to a visitor.
 
